@@ -1,0 +1,59 @@
+body{
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PeYjzGGbaRvB-AeEaEGqs_lShRfJOkq5MQ&usqp=CAU');
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: fixed;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.username{
+	margin:5px;
+	color:red;
+	text-align: center;
+	position: relative;
+	left: 550px;
+	top: 200px;
+	text-transform: capitalize;
+	font-size: 25px;
+	
+
+}
+.Pass{
+	position: relative;
+	left:560px;
+	top:200px;
+	color:red;
+	text-transform: capitalize;
+	font-size: 25px;
+	
+}
+
+.log{
+	position: relative;
+	left:700px;
+	top:200px;
+	color:red;
+	background-color: black;
+	border-radius: 20px;
+	padding:5px;
+}
+.reg{
+	position:relative;
+	left:720px;
+	top:200px;
+	color:red;
+	background-color:black ;
+	border-radius:20px;
+	padding:5px;
+}
+.reg:hover{
+	color:blue;
+}
+.log:hover{
+	color:blue;
+}
+.container{
+	border: 5px 
+
+}
